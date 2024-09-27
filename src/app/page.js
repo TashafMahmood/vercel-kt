@@ -2,7 +2,7 @@ import React from 'react'
 
 const Next = () => {
   return (
-    <div>Next App</div>
+    <div>Next App - Tashaf</div>
   )
 }
 
